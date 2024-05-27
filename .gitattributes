@@ -1,0 +1,9 @@
+to filter=lfs diff=lfs merge=lfs -text
+your filter=lfs diff=lfs merge=lfs -text
+large filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+Adjust filter=lfs diff=lfs merge=lfs -text
+pattern filter=lfs diff=lfs merge=lfs -text
+match filter=lfs diff=lfs merge=lfs -text
+files filter=lfs diff=lfs merge=lfs -text
